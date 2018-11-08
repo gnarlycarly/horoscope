@@ -1,0 +1,29 @@
+h1, h2{
+    text-align: center;
+    color: lightcoral;
+    text-weight: bold;
+}
+h3{
+    text-align: center;
+}
+
+#day, #month, #name{
+    text-align: center;
+}
+
+body{
+    text-align: center;
+    background-color: lavender;
+}
+
+#sign{
+    color: darkmagenta;
+    text-align: center;
+    font-size: 20px;
+}
+
+#message{
+    color: darkmagenta;
+    text-align: center;
+    font-size: 20px;
+}
